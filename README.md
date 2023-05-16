@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh Chaurasiya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
+<img align="right" width=400 alt="Adarsh" src="https://thumbs.gfycat.com/RemarkableSnappyFallowdeer-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshchauarsiya&label=Profile%20views&color=0e75b6&style=flat" alt="adarshchauarsiya" /> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm And Web Development**
