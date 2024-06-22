@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdarshChauarsiya&theme=dark_lover" alt="AdarshChauarsiya" /></a> </p>
 
 - 🔭 I’m currently works on **Data Structure And Algorithm**
-- 🌱 I’m currently learning **Data Structure and Algorithm C++,MySql,Data Science,Yolov8,Object detection ,Tableau**
-- 💬 Ask me about **Data Structure and Algorithm C++,API,Web Scrapping,MySQL,Tableau,Data Visualization**
+- 🌱 I’m currently learning **Data Structure and Algorithm C++,MySql,Data Science(Data Collection,Data Processing/Cleaning,Data Visualisation,EDA),Yolov8,Object detection ,Tableau,Machine Learning Algorithms**
+- 💬 Ask me about **Data Structure and Algorithm C++, Data Science, API,Web Scrapping, MySQL,Tableau, Data Visualization**
 - 📫 How to reach me **adarshkumarchaurasiya@gmail.com**
 - 👨‍💻 All of my projects are available at **https://medium.com/@adarshkumarchaurasiya**
 - 📝 I regularly write articles on **https://medium.com/@adarshkumarchaurasiya**
