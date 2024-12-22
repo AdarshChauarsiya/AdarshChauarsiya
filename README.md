@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello,I'm  Adarsh Kumar Chaurasiya</h1>
-<h3 align="center">I am 4th B-Tech Student from G.L. Bajaj Insititute Technology and Management || Data Science Enthusiast || Passionate about Data Structure and Algorithm C++</h3>
+<h3 align="center">I am 4th Year B-Tech Student from G.L. Bajaj Insititute Technology and Management || Data Science Enthusiast || Passionate about Data Structure and Algorithm C++</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdarshChauarsiya&label=Profile%20views&color=0e75b6&style=flat" alt="AdarshChauarsiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdarshChauarsiya&theme=dark_lover" alt="AdarshChauarsiya" /></a> </p>
